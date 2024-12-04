@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammansharrma&label=Profile%20views&color=0e75b6&style=flat" alt="ammansharrma" /> </p>
 
-- 🌱 I’m currently learning **Flask, OpenCV**
+- 🌱 I’m currently learning **WEB Development, Artificial Intelligence**
 
 - 👯 I’m looking to collaborate on **AI/ML Projects**
 
