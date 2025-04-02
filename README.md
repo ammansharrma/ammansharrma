@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aamaan Ssanjay Sharrma</h1>
+<h1 align="center">Hi 👋, I'm Amman Sharrma</h1>
 <h3 align="center">I am an AI/ML enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ammansharrma&label=Profile%20views&color=0e75b6&style=flat" alt="ammansharrma" /> </p>
